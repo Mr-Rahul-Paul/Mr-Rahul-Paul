@@ -11,6 +11,32 @@ Here is a detailed log of my contributions to open-source organizations.
 
 ## OWASP
 
-- **[OWASP/Nest/Issue #2962](https://github.com/OWASP/Nest/issues/2962)**: Feature request to add tags display to issue cards on contribute page for better issue discoverability and contributor experience.
+### Merged Pull Requests
 
-- **[OWASP/Nest/PR #3158](https://github.com/OWASP/Nest/pull/3158)**: Add tag display to issue cards on contribute page
+- **[OWASP/Nest #3709](https://github.com/OWASP/Nest/pull/3709)** - Resolve entity member admin attribute error (Backend)
+  - Fixed `AttributeError: 'RelatedManager' object has no attribute 'owasp_url'` in the admin panel
+  - Resolved `related_query_name` conflict with GenericForeignKey in EntityMember model
+  - **Tech**: Python, Django
+  - **Labels**: backend
+  - **Merged**: Feb 3, 2026
+
+- **[OWASP/Nest #3632](https://github.com/OWASP/Nest/pull/3632)** - Enhance mentorship UI with breadcrumb improvements and issues link (Frontend)
+  - Hid intermediate mentees and programs path segments from breadcrumbs for cleaner navigation
+  - Added "View all issues" link on module details page for better accessibility
+  - **Tech**: TypeScript, React
+  - **Labels**: frontend
+  - **Merged**: Feb 3, 2026
+
+- **[OWASP/Nest #3158](https://github.com/OWASP/Nest/pull/3158)** - Add tag display to issue cards on contribute page (Full-stack)
+  - Implemented GitHub issue labels display on issue cards for better discoverability
+  - Added priority-based tag filtering and sorting with Algolia integration
+  - Extended backend indexing to include `idx_tags` property
+  - **Tech**: Python, Django, TypeScript, React, Algolia
+  - **Labels**: frontend, frontend-tests
+  - **Merged**: Jan 16, 2026
+
+---
+
+### Related Issues
+
+- **[OWASP/Nest #2962](https://github.com/OWASP/Nest/issues/2962)**: Feature request to add tags display to issue cards on contribute page for better issue discoverability and contributor experience
