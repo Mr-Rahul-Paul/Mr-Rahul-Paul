@@ -88,7 +88,7 @@ removed for now
  </div>
  
 
-[** View Detailed Contribution Log**](./open-source/contributions.md)
+[**View Detailed Contribution Log**](./open-source/contributions.md)
 
 ---
 ### 🏆 Hackathon Wins & Stats
