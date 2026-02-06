@@ -1,6 +1,4 @@
-﻿<h1 align="center">Hi there, I'm Rahul Paul! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center">
+﻿<p align="center">
   <a href="https://github.com/Mr-Rahul-Paul">
     <img src="https://img.shields.io/github/followers/Mr-Rahul-Paul?style=flat&logo=github&label=GitHub" alt="GitHub followers" />
   </a>
