@@ -78,7 +78,7 @@ removed for now
 
 <br /> -->
 
-## 🤝 Open Source Contributions
+## Open Source Contributions
 
 > I actively contribute to open-source organizations. I prioritize clean code and meaningful impact.
 
@@ -88,7 +88,7 @@ removed for now
  </div>
  
 
-[**📂 View Detailed Contribution Log**](./open-source/contributions.md)
+[** View Detailed Contribution Log**](./open-source/contributions.md)
 
 ---
 ### 🏆 Hackathon Wins & Stats
