@@ -14,8 +14,9 @@ Here is a detailed log of my contributions to open-source organizations.
 ### Merged Pull Requests
 
 - **[OWASP/Nest #3709](https://github.com/OWASP/Nest/pull/3709)** - Resolve entity member admin attribute error (Backend)
+- **[OWASP/Nest #3793](https://github.com/OWASP/Nest/pull/3793)** - Remove redundant members from Chapter, Committee, and Project models (Backend)
 - **[OWASP/Nest #3632](https://github.com/OWASP/Nest/pull/3632)** - Enhance mentorship UI with breadcrumb improvements and issues link (Frontend)
-- **[OWASP/Nest #3158](https://github.com/OWASP/Nest/pull/3158)** - Add tag display to issue cards on contribute page (Fu
+- **[OWASP/Nest #3158](https://github.com/OWASP/Nest/pull/3158)** - Add tag display to issue cards on contribute page
 
 ### Opened Issues
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
