@@ -23,6 +23,10 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
 - **[OWASP/Nest #3606](https://github.com/OWASP/Nest/issues/3606)**: Fix Missing mentees list page returns 404 despite having navigation links
 - **[OWASP/Nest #3700](https://github.com/OWASP/Nest/issues/3700)**: Fix AttributeError in Django admin for EntityMember
+- **[OWASP/Nest #3700](https://github.com/OWASP/Nest/issues/3700)**: Fix AttributeError in Django admin for EntityMember
+- **[OWASP/Nest #3778](https://github.com/OWASP/Nest/issues/3700)**: Remove redundant members GenericRelation from Entity models 
 - **[OWASP/Nest #3778](https://github.com/OWASP/Nest/issues/3700)**: Remove redundant members GenericRelation from Entity models 
 - **[OWASP/Nest #3568](https://github.com/OWASP/Nest/issues/3568)**: Fix inconsistent Label component UI with ActionButtons
-- **[OWASP/Nest #371 (Open)](https://github.com/OWASP/Nest/issues/3371)**: Enforce number type for date formatter utilities
+- **[OWASP/Nest #3568](https://github.com/OWASP/Nest/issues/3568)**: Fix inconsistent Label component UI with ActionButtons
+- **[OWASP/Nest #3815](https://github.com/OWASP/Nest/issues/3568)**: Algolia cache key missing facetFilters
+- **[OWASP/Nest #3371 (Open)](https://github.com/OWASP/Nest/issues/3371)**: Enforce number type for date formatter utilities
