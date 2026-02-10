@@ -18,6 +18,8 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3632](https://github.com/OWASP/Nest/pull/3632)** - Enhance mentorship UI with breadcrumb improvements and issues link (Frontend)
 - **[OWASP/Nest #3158](https://github.com/OWASP/Nest/pull/3158)** - Add tag display to issue cards on contribute page
 - **[OWASP/Nest #3806](https://github.com/OWASP/Nest/pull/38)** - Update Label styling to match ActionButton design
+- **[OWASP/Nest #3825](https://github.com/OWASP/Nest/pull/3825)** - Fixed cache key collision in Algolia search
+- **[OWASP/Nest #3863](https://github.com/OWASP/Nest/pull/3863)** - Hide intermediate community path segment from breadcrumbs
 
 ### Opened Issues
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
@@ -28,3 +30,4 @@ Here is a detailed log of my contributions to open-source organizations.
 
 - **[OWASP/Nest #3568](https://github.com/OWASP/Nest/issues/3568)**: Fix inconsistent Label component UI with ActionButtons
 - **[OWASP/Nest #3371 (Open)](https://github.com/OWASP/Nest/issues/3371)**: Enforce number type for date formatter utilities
+- **[OWASP/Nest #3849](https://github.com/OWASP/Nest/issues/3849)**: Community page in breadcrumb component returns 404 despite having navigation links
