@@ -20,6 +20,8 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3806](https://github.com/OWASP/Nest/pull/38)** - Update Label styling to match ActionButton design
 - **[OWASP/Nest #3825](https://github.com/OWASP/Nest/pull/3825)** - Fixed cache key collision in Algolia search
 - **[OWASP/Nest #3863](https://github.com/OWASP/Nest/pull/3863)** - Hide intermediate community path segment from breadcrumbs
+- **[OWASP/Nest #3958](https://github.com/OWASP/Nest/pull/3958)** - Add Slack channels to Projects and Chapters page
+- **[OWASP/Nest #3857](https://github.com/OWASP/Nest/pull/3857)** - Refactor dateFormatter to strictly accept numeric Unix timestamps
 
 ### Opened Issues
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
@@ -30,4 +32,4 @@ Here is a detailed log of my contributions to open-source organizations.
 
 - **[OWASP/Nest #3568](https://github.com/OWASP/Nest/issues/3568)**: Fix inconsistent Label component UI with ActionButtons
 - **[OWASP/Nest #3371 (Open)](https://github.com/OWASP/Nest/issues/3371)**: Enforce number type for date formatter utilities
-- **[OWASP/Nest #3849](https://github.com/OWASP/Nest/issues/3849)**: Community page in breadcrumb component returns 404 despite having navigation links
+- **[OWASP/Nest #3849](https://github.com/OWASP/Nest/issues/3849)**: Community page in breadcrumb component returns 404 despite having navigation linkshttps://www.summerofbitcoin.org/
