@@ -22,6 +22,7 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3863](https://github.com/OWASP/Nest/pull/3863)** - Hide intermediate community path segment from breadcrumbs
 - **[OWASP/Nest #3958](https://github.com/OWASP/Nest/pull/3958)** - Add Slack channels to Projects and Chapters page
 - **[OWASP/Nest #3857](https://github.com/OWASP/Nest/pull/3857)** - Refactor dateFormatter to strictly accept numeric Unix timestamps
+- **[OWASP/Nest #3912](https://github.com/OWASP/Nest/pull/3912)** - [Co-Authored] Added a lightweight Community Page
 
 ### Opened Issues
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
