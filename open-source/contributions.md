@@ -24,6 +24,10 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3857](https://github.com/OWASP/Nest/pull/3857)** - Refactor dateFormatter to strictly accept numeric Unix timestamps
 - **[OWASP/Nest #3912](https://github.com/OWASP/Nest/pull/3912)** - [Co-Authored] Added a lightweight Community Page
 
+### Open Pull Requests
+
+- **[OWASP/Nest #4005](https://github.com/OWASP/Nest/pull/4005)** - Add theme toggle with system preference and persistence
+
 ### Opened Issues
 - **[OWASP/Nest #3513](https://github.com/OWASP/Nest/issues/3513)**: Fix inconsistent Label component UI with ActionButtons
 - **[OWASP/Nest #3606](https://github.com/OWASP/Nest/issues/3606)**: Fix Missing mentees list page returns 404 despite having navigation links
