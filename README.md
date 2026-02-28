@@ -18,7 +18,8 @@ removed for now
 
  <div align="left">
  <a href="./open-source/contributions.md#freecad"><img src="https://github.com/FreeCAD.png?size=48" width="48" height="48" alt="FreeCAD" /></a>
-  <a href="./open-source/contributions.md#owasp"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+ <a href="./open-source/contributions.md#owasp"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
+ <a href="./open-source/contributions.md#summerofbitcoin"><img src="https://github.com/SummerOfBitcoin.png?size=48" width="48" height="48" alt="Summer of Bitcoin" /></a>
  </div>
  
 
@@ -38,6 +39,7 @@ I love the thrill of building products under pressure!
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" alt="Open to Work">
 </div>
+
 
 
 
