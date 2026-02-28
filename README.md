@@ -4,8 +4,6 @@
 - &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/rahul-paul-0109bb219)**
 - &nbsp;Check out my **[Blogs](https://my-blogs-one-omega.vercel.app/Blogs)**
 
-<br>
-
 <!-- 
 removed for now 
 ## 🌊 Activity Wave
@@ -40,5 +38,6 @@ I love the thrill of building products under pressure!
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-green?style=for-the-badge" alt="Open to Work">
 </div>
+
 
 
