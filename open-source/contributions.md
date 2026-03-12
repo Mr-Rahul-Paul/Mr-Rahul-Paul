@@ -25,6 +25,7 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #3912](https://github.com/OWASP/Nest/pull/3912)** - [Co-Authored] Added a lightweight Community Page
 - **[OWASP/Nest #4144](https://github.com/OWASP/Nest/pull/4144)** - Extends list_events endpoint with filtering by multiple categories
 - **[OWASP/Nest #4217](https://github.com/OWASP/Nest/pull/4217)** - Improve project-level metrics calculation by using max values
+- **[OWASP/Nest #4234](https://github.com/OWASP/Nest/pull/4234)** - Fix project selection clearing on blur in module form
 
 
 ### Opened Issues
