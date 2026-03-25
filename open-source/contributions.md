@@ -28,3 +28,7 @@ Here is a detailed log of my contributions to open-source organizations.
 - **[OWASP/Nest #4234](https://github.com/OWASP/Nest/pull/4234)** - Fix project selection clearing on blur in module form
 
 ## Opened, located, and solved multiple issues
+
+## Programs & Competitions
+
+   ### Summer of Bitcoin 2026: Qualified for the Developer Track Challenge Round.
