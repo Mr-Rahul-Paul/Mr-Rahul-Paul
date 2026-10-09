@@ -1,9 +1,7 @@
-﻿- &nbsp;CS Major at **[IIIT Vadodara](http://iiitvadodara.ac.in/)** (2024-2028) 🎓
-- &nbsp;Full Stack Developer & Rustacean 🦀
-- &nbsp;Passionate about **Rust**, **DevOps**, and **Open Source**
-- &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/rahul-paul-0109bb219)**
-- &nbsp;Check out my **[Blogs](https://my-blogs-one-omega.vercel.app/Blogs)**
-
+﻿- Computer Science student at **IIIT Vadodara** (2024–2028)
+- I write code and contribute to open source
+- Outside of code, I enjoy **3D art**
+- Check out my [linkedin](https://www.linkedin.com/in/rahul-paul-0109bb219/) and [blog](https://my-blogs-one-omega.vercel.app/Blogs)
 <!-- 
 removed for now 
 ## 🌊 Activity Wave
@@ -14,12 +12,12 @@ removed for now
 
 ## Open Source Contributions
 
-> I actively contribute to open-source organizations. I prioritize clean code and meaningful impact.
+> I enjoy contributing to open source and learning from the people behind it.
 
  <div align="left">
  <a href="./open-source/contributions.md#freecad"><img src="https://github.com/FreeCAD.png?size=48" width="48" height="48" alt="FreeCAD" /></a>
  <a href="./open-source/contributions.md#owasp"><img src="https://github.com/OWASP.png?size=48" width="48" height="48" alt="OWASP" /></a>
- <a href="./open-source/contributions.md#summerofbitcoin"><img src="https://resources.saylor.org/wwwresources/wp-content/uploads/20221220112324/500x500.png" width="48" height="48" alt="Summer of Bitcoin" /></a>
+ <a href="./open-source/contributions.md#summer-of-bitcoin-2026"><img src="https://resources.saylor.org/wwwresources/wp-content/uploads/20221220112324/500x500.png" width="48" height="48" alt="Summer of Bitcoin" /></a>
  </div>
  
 
@@ -33,6 +31,7 @@ I love the thrill of building products under pressure!
 | 🏅 Achievement         | 🚀 Project                                                                      | 📅 Event        |
 | :--------------------- | :------------------------------------------------------------------------------ | :-------------- |
 | **Winner / 1st Place** | [quantum-sim-HackIIITV](https://github.com/Mr-Rahul-Paul/quantum-sim-HackIIITV) | _HackIIITV 2025_ |
+| **Open Source Contributor** | OWASP Nest & FreeCAD | OWASP / FreeCAD |
 
 <br />
 
