@@ -1,7 +1,7 @@
 ﻿- Computer Science student at **IIIT Vadodara** (2024–2028)
 - I write code and contribute to open source
 - Outside of code, I enjoy **3D art**
-- Check out my [linkedin](https://www.linkedin.com/in/rahul-paul-0109bb219/) and [blog](https://my-blogs-one-omega.vercel.app/Blogs)
+- Check out my [linkedin](https://www.linkedin.com/in/rahul-paul-0109bb219/)
 <!-- 
 removed for now 
 ## 🌊 Activity Wave
