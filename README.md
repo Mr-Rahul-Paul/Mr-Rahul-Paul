@@ -32,7 +32,7 @@ I love the thrill of building products under pressure!
 | :--------------------- | :------------------------------------------------------------------------------ | :-------------- |
 | **Winner / 1st Place** | Quantum Sim | _HackIIITV 2025_ |
 | **Open Source Contributor** | OWASP Nest & FreeCAD | OWASP / FreeCAD |
-| **Research Publication** | [A Probabilistic Collision Risk Framework for Two-Lane Roads in V2X-Enabled Networks](https://ieeexplore.ieee.org/document/11724337) | IEEE RECCAP 2026 |
+| **Research Publication** | [V2X Collision Risk Framework](https://ieeexplore.ieee.org/document/11724337) | IEEE RECCAP 2026 |
 
 <br />
 
