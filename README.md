@@ -24,7 +24,7 @@ removed for now
 [**View Detailed Contribution Log**](./open-source/contributions.md)
 
 ---
-### 🏆 Hackathon Wins & Stats
+### 🏆 Achievements & Research
 
 I love the thrill of building products under pressure!
 
@@ -32,6 +32,7 @@ I love the thrill of building products under pressure!
 | :--------------------- | :------------------------------------------------------------------------------ | :-------------- |
 | **Winner / 1st Place** | [quantum-sim-HackIIITV](https://github.com/Mr-Rahul-Paul/quantum-sim-HackIIITV) | _HackIIITV 2025_ |
 | **Open Source Contributor** | OWASP Nest & FreeCAD | OWASP / FreeCAD |
+| **Research Publication** | [A Probabilistic Collision Risk Framework for Two-Lane Roads in V2X-Enabled Networks](https://ieeexplore.ieee.org/document/11724337) | IEEE RECCAP 2026 |
 
 <br />
 
