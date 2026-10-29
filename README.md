@@ -26,13 +26,11 @@ removed for now
 ---
 ### 🏆 Achievements & Research
 
-I love the thrill of building products under pressure!
-
-| 🏅 Achievement         | 🚀 Project                                                                      | 📅 Event        |
-| :--------------------- | :------------------------------------------------------------------------------ | :-------------- |
-| **Winner / 1st Place** | [quantum-sim-HackIIITV](https://github.com/Mr-Rahul-Paul/quantum-sim-HackIIITV) | _HackIIITV 2025_ |
+| Achievement | Work | Venue |
+| :--- | :--- | :--- |
+| **1st Place** | [Quantum Sim](https://github.com/Mr-Rahul-Paul/quantum-sim-HackIIITV) | HackIIITV 2025 |
 | **Open Source Contributor** | OWASP Nest & FreeCAD | OWASP / FreeCAD |
-| **Research Publication** | [A Probabilistic Collision Risk Framework for Two-Lane Roads in V2X-Enabled Networks](https://ieeexplore.ieee.org/document/11724337) | IEEE RECCAP 2026 |
+| **Research Publication** | [V2X Collision Risk Framework](https://ieeexplore.ieee.org/document/11724337) | IEEE RECCAP 2026 |
 
 <br />
 
